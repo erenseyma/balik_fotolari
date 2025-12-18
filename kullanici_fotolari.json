@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "city": "istanbul",
+    "fishType": "levrek",
+    "size": "45",
+    "weight": "2.3",
+    "date": "2024-01-15",
+    "anglerName": "Mehmet Y.",
+    "photoUrl": "https://cdn.jsdelivr.net/gh/erenseyma/balik_fotolari/palamut.png",
+    "bait": "canlı yem",
+    "location": "Boğaz",
+    "likes": 1
+  }
+]
